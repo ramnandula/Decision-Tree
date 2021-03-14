@@ -1,5 +1,5 @@
 // Ram Aditya Nandula
-
+// 9/8/20
 
 // This program implements the ID3 decision tree learning algorithm. It only handles ternary classification tasks and ternary
 // valued attributes (0, 1, 2). It handles any number of attributes. The program learns from the training file and generates a tree. 
