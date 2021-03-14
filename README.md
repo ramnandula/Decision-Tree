@@ -1,7 +1,8 @@
+Developed on NetBeans IDE 8.2 (Java JDK 8) in Windows 10. 
+
 Instructions:
 
-1. Developed on NetBeans IDE 8.2 (Java JDK 8) in Windows 10. 
-
+1. 
 2. Code was in project source (src) folder. Text files were outside this folder (inside general project folder).
 
 3. Navigate to src folder. Type "javac Main.java" in terminal. (Compiling program)
