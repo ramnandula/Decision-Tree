@@ -1,7 +1,5 @@
 // Ram Aditya Nandula
-// Fall 2020, CS 4375 - Machine Learning
-// Assignment 1 - Decision Trees
-// DecisionTree.java
+
 
 // This program implements the ID3 decision tree learning algorithm. It only handles ternary classification tasks and ternary
 // valued attributes (0, 1, 2). It handles any number of attributes. The program learns from the training file and generates a tree. 
